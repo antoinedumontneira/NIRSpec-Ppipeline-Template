@@ -8,7 +8,6 @@ import os
 from astropy.io import fits
 import matplotlib.pyplot as plt
 from astropy.table import vstack
-from show_image import show_image
 import jwst
 import traceback
 import configparser
